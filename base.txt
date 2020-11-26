@@ -1,0 +1,18 @@
+{auf}
+{v345}
+{RUS}
+[
+	?cat?
+	[
+		?pretty?
+		[
+			`pussy`
+		]
+		[
+			`poltorashka`
+		]
+	]
+	[
+		`znamka`
+	]
+]
